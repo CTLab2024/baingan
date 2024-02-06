@@ -1,0 +1,17 @@
+
+
+
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "RollNo_UnitTest". Write a program for multiplying three numbers, 
+	and write a unit test for the same.							(2)
+
+3.	Write proper documentation for the above class and 
+	generate documentation in html format.							(2)
+
+4.	Using Selenium IDE(selenese commands) automate the process of logging into college's	(2)
+	internet portal. (Name the project as "RollNo_auto")
+	URL : 10.0.0.20/userlogin/
+	
+5.	Save your progress in a local repository.						(1)
+6.	Create a new branch named your "rollnumber_sol". eg. "19000_sol".			(0.5)
+7.	Push the newly create branch to the remote repository.					(0.5)
